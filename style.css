@@ -7,11 +7,6 @@ h1 {
 	font-size:100px
 }
 
-@font-face {
-    font-family: sansation;
-    src: url(Sansation_Light.ttf);
-}
-
 h2{
 	/*color:#4286f4;*/
 }
