@@ -19,5 +19,5 @@ body{
 	color:white;
 	font-family:"sansation", tahoma;
 	text-align:center;
-	background:linear-gradient(to top right, #ff9a16,#9d31c6);
+	background:linear-gradient(to top right, #ff9a16,#9d31c6) top right no-repeat; background-attachment:fixed;
 }
