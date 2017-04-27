@@ -7,6 +7,11 @@ h1 {
 	font-size:100px
 }
 
+@font-face {
+    font-family: raleway;
+    src: url(Raleway-Regular.woff);
+}
+
 h2{
 	/*color:#4286f4;*/
 }
