@@ -37,7 +37,9 @@ a {
 }
 a:hover {
 	text-decoration: underline
-	
+}
+a.dick {
+	color: blue
 }
 p {
 	font-family: arial;
